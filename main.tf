@@ -10,3 +10,4 @@ resource "aws_instance" "example1" {
       Name ="terraform-example1"
   }
 }
+//comment
